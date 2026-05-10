@@ -6,3 +6,4 @@ refactor: cleaned Base utility scripts
 docs: improved README explanations
 feat: added simple transaction checker
 style: updated markdown formatting
+test: verified bridge interaction flow
