@@ -3,3 +3,4 @@ feat: started tracking Base ecosystem interactions
 chore: updated repository structure
 fix: corrected wallet connection example
 refactor: cleaned Base utility scripts
+docs: improved README explanations
